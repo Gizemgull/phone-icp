@@ -1,1 +1,2 @@
-# phone-icp
+# Patika-CP-HUB
+phone-icp Workshop
